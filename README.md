@@ -15,7 +15,7 @@
 
 ### 🎯 About Me
 
-- 🎓 6th Semester **BSCS** student at **Lahore Garrison University (LGU)**, Computer Science Department
+- 🎓 7th Semester **BSCS** student at **Lahore Garrison University (LGU)**, Computer Science Department
 - 🤖 Deeply passionate about **AI, Machine Learning & Automation** — pursuing this as my career
 - 🔬 **Research Head**, IEEE LGU Student Branch (previously Research Co-Head)
 - 🚀 Event/Operational Lead, **AWS Student Builders Group – LGU**
